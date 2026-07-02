@@ -1,0 +1,23 @@
+[
+  {
+    "company": "Comapny 1",
+    "description": "Company 1 Description",
+    "initial_price": 44.28,
+    "price_2007": 95.85,
+    "symbol": "C1"
+  },
+  {
+    "company": "Comapny 2",
+    "description": "Company 2 Description",
+    "initial_price": 89.38,
+    "price_2007": 93.43,
+    "symbol": "C2"
+  },
+  {
+    "company": "Comapny 3",
+    "description": "Company 3 Description",
+    "initial_price": 102.56,
+    "price_2007": 115.35,
+    "symbol": "C3"
+  }
+]
