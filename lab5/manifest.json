@@ -1,0 +1,17 @@
+{
+  "name": "RVCE PWA Program",
+  "short_name": "PWA_Prog8",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffff00",
+  "description": "A simple application for PWA demonstration",
+  "orientation": "portrait-primary",
+  "theme_color": "#2196F3",
+  "icons": [
+    {
+      "src": "rvce_108.jpeg",
+      "sizes": "108x108",
+      "type": "image/jpeg"
+    }
+  ]
+}
